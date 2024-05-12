@@ -1,0 +1,138 @@
+body {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #ffffff;
+}
+h1 {
+    color:
+            #ffffff;
+             text-align: center;
+             vertical-align: text-top;
+              font-size: 56px;
+                line-height: 107%;
+                font-weight: 500;
+    }
+h2 {
+    color:#2e2f42;
+    text-align: center;
+     vertical-align: text-top;
+      font-size: 36px; 
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        font-weight: 500;
+        text-transform: capitalize;
+}
+h3 {
+    color:#2e2f42;
+     text-align: left;
+      vertical-align: text-top;
+       font-size: 20px;
+          line-height: 120%;
+        letter-spacing: 0.02em;
+            font-weight: 500;
+}
+.page-nav {
+    color:#2e2f42;
+     text-align: left;
+      vertical-align: text-top;
+       font-size: 16px;
+       line-height: 150%;
+}
+.page-links {
+ text-align: left;
+  vertical-align: text-top; 
+  font-size: 16px;
+   line-height: 150%; 
+}
+.text {
+ text-align: left;
+  vertical-align: text-top; 
+  font-size: 16px; 
+  line-height: 150%; 
+}
+.position {
+     text-align: center;
+      vertical-align: text-top;
+       font-size: 16px;
+        line-height: 150%;
+}
+.studio-a {
+    color: #2e2f42;
+}
+.address {
+    font-style: normal;
+}
+.mail-tel {
+    color: #434455;
+}
+.mail-tel:hover {
+    color: #404bbf;
+}
+.mail-tel:focus {
+    color: #404bbf;
+}
+.first {
+    background-color: #2e2f42;
+}
+.head-one {
+    letter-spacing: 0.02em
+}
+.button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #404BBF;
+}
+.button:focus {
+    background-color: #404BBF;
+}
+
+.team {
+    background: #f4f4fd;
+}
+.grup {
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
+.grup-a {
+    background-color: #FFFFFF;
+
+}
+footer {
+    color: #f4f4fd;
+        text-align: left;
+        vertical-align: text-top;
+        font-size: 16px;
+        line-height: 150%;
+    background-color: #2e2f42;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.studio {
+    color: #f4f4fd;
+}
+.menu {
+    font-weight: 500;
+    color: #2e2f42;
+}
+.menu:hover {
+    color: #404bbf;
+}
+.menu:focus {
+    color: #404bbf;
+}
