@@ -111,6 +111,8 @@ display: flex;
         width: 169px;
         height: 56px;
         margin: 0 auto;
+        min-width: 169px;
+        border: none;
 }
 .button:hover {
     background-color: #404BBF;
@@ -167,11 +169,14 @@ footer {
 .menu:focus {
     color: #404bbf;
 }
-
+.header {
+    border-bottom: 1px solid #e7e9fc
+}
 .container {
-        width: 1440px;
+        width: 1158px;
         margin: 0 0;
         padding: 0 15px;
+        margin: 0 auto;
     }
 
 .container-header {
@@ -184,6 +189,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 24px 0;
 }
 ul {
     list-style: none;
