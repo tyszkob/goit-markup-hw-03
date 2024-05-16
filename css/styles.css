@@ -189,7 +189,6 @@ footer {
 }
 .container {
         width: 1158px;
-        margin: 0 0;
         padding: 0 15px;
         margin: 0 auto;
     }
@@ -274,7 +273,7 @@ ul {
     }
 
 .skils-a {
-width: calc((100% - 48px)/3);
+width: calc((100% - 48px) / 3);
 }
 .skils-text {
     border: 1px solid #e7e9fc;
