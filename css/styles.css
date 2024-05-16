@@ -127,6 +127,7 @@ display: flex;
 }
 
 .team {
+    background: #f4f4fd;
     padding: 120px 0 120px
 }
 .grup {
@@ -229,10 +230,10 @@ ul {
     
 }
 .about-list {
-    width: calc((100% - 72px)/4);
+    width: calc((100% - 72px) / 4);
     }
     
-.secend {
+.second {
     padding: 120px 0;
     display: flex;
 }
