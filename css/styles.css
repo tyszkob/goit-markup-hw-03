@@ -127,8 +127,7 @@ display: flex;
 }
 
 .team {
-    background: #f4f4fd;
-    padding: 120px 0;
+    padding: 120px 0 120px
 }
 .grup {
 letter-spacing: 0.02em;
