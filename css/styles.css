@@ -65,13 +65,6 @@ h3 {
     gap: 40px;
 }
 
-.text {
-    text-align: left;
-    vertical-align: text-top; 
-    font-size: 16px; 
-    line-height: 150%; 
-}
-
 .position {
     text-align: center;
     vertical-align: text-top;
@@ -141,8 +134,7 @@ h3 {
 
 .team {
     background: #f4f4fd;
-    padding: 120px 0;
-    
+    padding: 120px 0;   
 }
 
 .group {
@@ -237,6 +229,11 @@ ul {
     margin-bottom: 48px;
 }
 
+.second {
+    padding: 120px 0;
+    display: flex;
+}
+
 .title-two {
     position: absolute;
     width: 1px;
@@ -250,11 +247,6 @@ ul {
     overflow: hidden;
 }
 
-.second-a {
-    margin-bottom: 8px;
-    text-align: center;
-}
-
 .about-us {
     display: flex;
     gap: 24px;   
@@ -263,10 +255,17 @@ ul {
 .about-list {
     width: calc((100% - 72px) / 4);
 }
-    
-.second {
-    padding: 120px 0;
-    display: flex;
+
+.second-a {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.text {
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 16px;
+    line-height: 150%;
 }
 
 .people {
