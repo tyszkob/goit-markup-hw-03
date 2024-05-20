@@ -5,6 +5,12 @@ body {
     background-color: #ffffff;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 img {
     display: block;
     max-width: 100%;
@@ -61,7 +67,6 @@ h3 {
     align-items: center;
     justify-content: space-between;
     text-decoration: none;
-    margin-right: 156px;
     gap: 40px;
 }
 
@@ -195,7 +200,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 24px 0;
 }
 
 ul {
@@ -224,6 +228,11 @@ ul {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+}
+
+.second-c {
+    margin-bottom: 8px;
+    text-align: left;
 }
 
 .about-us {
@@ -298,7 +307,6 @@ ul {
     display: flex;
     column-gap: 24px;
     row-gap: 48px;
-    padding: 0 156px;
     flex-wrap: wrap;
 }
 
